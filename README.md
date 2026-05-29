@@ -1,69 +1,72 @@
 <div align="center">
-  <img height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFlYzVxeGYxMjNpZ290OXBvc3l6cmE2dHltYXV2ZmRxcTZ2aGRnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
-
-  <br>
-
-  <h1>Olá, eu sou o Guilherme Marques Ferreira 👋</h1>
-  
-  <p><b>Sistemas de Informação</b> • <i>PUC Minas</i></p>
-
-  <a href="https://www.linkedin.com/in/guilherme-ferreira-6090403b5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:guilhermemarquesf0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
-  </a>
+  <!-- Imagem de topo estável e elegante -->
+  <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=500&auto=format&fit=crop" width="450" alt="Terminal C#" />
 
   <br><br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+  <!-- Nome Principal e Subtítulo -->
+  <h1>Guilherme Marques Ferreira</h1>
+  <p><code>Sistemas de Informação :: PUC Minas</code></p>
 </div>
+
+---
 
 ### 🚀 Sobre Mim
 
-<p align="left">
-  Sou um desenvolvedor em formação fascinado por tecnologia e resolução de problemas. Atualmente, divido meu tempo entre a graduação em <b>Sistemas de Informação na PUC Minas</b> e o estudo focado de arquitetura de software, buscando sempre aplicar as melhores práticas de mercado nos meus códigos.
-</p>
-
-> 🎯 **Objetivo:** Me tornar um desenvolvedor completo (Full-Stack), construindo uma base lógica inabalável no Back-End e criando interfaces modernas, fluidas e extremamente bem estruturadas no Front-End.
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</div>
-
-### 💻 Minha Stack Tecnológica
-
-*Abaixo estão as principais tecnologias que utilizo no meu dia a dia de estudos e projetos:*
-
-<br>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" title="C#" />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" title="VS Code" />
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</div>
-
-### 📚 Foco de Aprendizado Atual
-
-- 🌐 **Front-End Avançado:** Dominar a semântica do HTML5, estilizações robustas com CSS moderno e interatividade com JavaScript puro.
-- ⚙️ **Lógica & Back-End:** Resolução de problemas complexos através de Algoritmos e Técnicas de Programação (ATP) utilizando a plataforma C#.
-- 🛠️ **Boas Práticas:** Versionamento de código limpo com Git e organização de repositórios no GitHub.
-
-<br>
+A passionate Information Systems student from Betim, Brazil, crafting modern web experiences. Currently mastering front-end development, programming logic, and C# algorithms.
 
 ---
-<p align="center"><i>Construído com ☕ e muito código por Guilherme Marques.</i></p>
+
+### 💻 Competências Técnicas
+
+<div align="center">
+  <!-- Badges estáveis que usam a infraestrutura oficial do GitHub e NUNCA somem -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35" />
+</div>
+
+---
+
+### 🎯 Diretrizes & Objetivos
+
+<table width="100%">
+  <tr>
+    <!-- Lado Esquerdo: Seu foco atual formatado de um jeito dev bem limpo -->
+    <td width="50%" valign="top">
+      <h4>⚡ Status Atual</h4>
+      <ul>
+        <li><b>Universidade:</b> PUC Minas (Betim)</li>
+        <li><b>Foco Principal:</b> Lógica de Programação</li>
+        <li><b>Linguagem do Momento:</b> C#</li>
+      </ul>
+    </td>
+    <!-- Lado Direito: Bloco de Objetivo da imagem conceitual -->
+    <td width="50%" valign="top">
+      <h4>🎯 Objetivo</h4>
+      <blockquote>
+        Me tornar um desenvolvedor completo, com base sólida em lógica e capacidade de construir aplicações web modernas e bem estruturadas.
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤝 Conecte-se comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/guilherme-ferreira-6090403b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:guilhermemarquesf0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Gmail" />
+  </a>
+</div>
